@@ -1,0 +1,27 @@
+{
+  "name": "node-beauty-luosimao",
+  "version": "1.0.0",
+  "description": "Luosimao SMS module for node-beauty",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdwong/node-beauty-luosimao.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "node-beauty",
+    "sms",
+    "luosimao"
+  ],
+  "author": "Bun Wong <bunwong@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdwong/node-beauty-luosimao/issues"
+  },
+  "homepage": "https://github.com/hdwong/node-beauty-luosimao#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
